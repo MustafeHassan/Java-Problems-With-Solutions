@@ -2,6 +2,10 @@ package easy;
 
 import java.util.Scanner;
 
+/**
+ ** Implement a basic calculator that can perform addition, subtraction,
+ ** multiplication, and division operations.
+ */
 public class BasicCalculator {
     public static void main(String[] args) {
         System.out.println("********************************");
